@@ -1,0 +1,132 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "\\\\Mac\\Home\\Desktop\\Windows\u9879\u76EE\\WpfApp2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{69D340EB-382C-4A6D-A659-1CEAAD364733}|WpfApp2\\WpfApp2.csproj|\\\\mac\\home\\desktop\\windows\u9879\u76EE\\wpfapp2\\wpfapp2\\home\\home_listpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69D340EB-382C-4A6D-A659-1CEAAD364733}|WpfApp2\\WpfApp2.csproj|\\\\mac\\home\\desktop\\windows\u9879\u76EE\\wpfapp2\\wpfapp2\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69D340EB-382C-4A6D-A659-1CEAAD364733}|WpfApp2\\WpfApp2.csproj|\\\\mac\\home\\desktop\\windows\u9879\u76EE\\wpfapp2\\wpfapp2\\home\\home_requestpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69D340EB-382C-4A6D-A659-1CEAAD364733}|WpfApp2\\WpfApp2.csproj|\\\\mac\\home\\desktop\\windows\u9879\u76EE\\wpfapp2\\wpfapp2\\home\\home_requestpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69D340EB-382C-4A6D-A659-1CEAAD364733}|WpfApp2\\WpfApp2.csproj|\\\\mac\\home\\desktop\\windows\u9879\u76EE\\wpfapp2\\wpfapp2\\home\\homemainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69D340EB-382C-4A6D-A659-1CEAAD364733}|WpfApp2\\WpfApp2.csproj|\\\\mac\\home\\desktop\\windows\u9879\u76EE\\wpfapp2\\wpfapp2\\home\\home_listpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69D340EB-382C-4A6D-A659-1CEAAD364733}|WpfApp2\\WpfApp2.csproj|\\\\mac\\home\\desktop\\windows\u9879\u76EE\\wpfapp2\\wpfapp2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Home_ListPage.xaml.cs",
+              "DocumentMoniker": "\\\\Mac\\Home\\Desktop\\Windows\u9879\u76EE\\WpfApp2\\WpfApp2\\Home\\Home_ListPage.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp2\\Home\\Home_ListPage.xaml.cs",
+              "ToolTip": "\\\\Mac\\Home\\Desktop\\Windows\u9879\u76EE\\WpfApp2\\WpfApp2\\Home\\Home_ListPage.xaml.cs",
+              "RelativeToolTip": "WpfApp2\\Home\\Home_ListPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T03:10:19.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeMainPage.xaml",
+              "DocumentMoniker": "\\\\Mac\\Home\\Desktop\\Windows\u9879\u76EE\\WpfApp2\\WpfApp2\\Home\\HomeMainPage.xaml",
+              "RelativeDocumentMoniker": "WpfApp2\\Home\\HomeMainPage.xaml",
+              "ToolTip": "\\\\Mac\\Home\\Desktop\\Windows\u9879\u76EE\\WpfApp2\\WpfApp2\\Home\\HomeMainPage.xaml",
+              "RelativeToolTip": "WpfApp2\\Home\\HomeMainPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-19T03:09:19.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "\\\\Mac\\Home\\Desktop\\Windows\u9879\u76EE\\WpfApp2\\WpfApp2\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp2\\MainWindow.xaml.cs",
+              "ToolTip": "\\\\Mac\\Home\\Desktop\\Windows\u9879\u76EE\\WpfApp2\\WpfApp2\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WpfApp2\\MainWindow.xaml.cs",
+              "ViewState": "AQIAANEAAAAA+v////8rwHoAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T03:01:56.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Home_RequestPage.xaml",
+              "DocumentMoniker": "\\\\Mac\\Home\\Desktop\\Windows\u9879\u76EE\\WpfApp2\\WpfApp2\\Home\\Home_RequestPage.xaml",
+              "RelativeDocumentMoniker": "WpfApp2\\Home\\Home_RequestPage.xaml",
+              "ToolTip": "\\\\Mac\\Home\\Desktop\\Windows\u9879\u76EE\\WpfApp2\\WpfApp2\\Home\\Home_RequestPage.xaml",
+              "RelativeToolTip": "WpfApp2\\Home\\Home_RequestPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-10T09:39:48.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Home_RequestPage.xaml.cs",
+              "DocumentMoniker": "\\\\Mac\\Home\\Desktop\\Windows\u9879\u76EE\\WpfApp2\\WpfApp2\\Home\\Home_RequestPage.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp2\\Home\\Home_RequestPage.xaml.cs",
+              "ToolTip": "\\\\Mac\\Home\\Desktop\\Windows\u9879\u76EE\\WpfApp2\\WpfApp2\\Home\\Home_RequestPage.xaml.cs",
+              "RelativeToolTip": "WpfApp2\\Home\\Home_RequestPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T04:29:18.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "\\\\Mac\\Home\\Desktop\\Windows\u9879\u76EE\\WpfApp2\\WpfApp2\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WpfApp2\\MainWindow.xaml",
+              "ToolTip": "\\\\Mac\\Home\\Desktop\\Windows\u9879\u76EE\\WpfApp2\\WpfApp2\\MainWindow.xaml",
+              "RelativeToolTip": "WpfApp2\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-19T02:32:10.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Home_ListPage.xaml",
+              "DocumentMoniker": "\\\\Mac\\Home\\Desktop\\Windows\u9879\u76EE\\WpfApp2\\WpfApp2\\Home\\Home_ListPage.xaml",
+              "RelativeDocumentMoniker": "WpfApp2\\Home\\Home_ListPage.xaml",
+              "ToolTip": "\\\\Mac\\Home\\Desktop\\Windows\u9879\u76EE\\WpfApp2\\WpfApp2\\Home\\Home_ListPage.xaml",
+              "RelativeToolTip": "WpfApp2\\Home\\Home_ListPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-10T09:24:12.798Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
